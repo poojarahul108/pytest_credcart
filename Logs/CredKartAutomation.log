@@ -1,0 +1,72 @@
+2024-02-06 16:34:08,165 - INFO - root  - test_chechout_login - 32- Testcase test_UserLogin001 is started 
+2024-02-06 16:34:08,166 - INFO - root  - test_chechout_login - 33- Opening browser 
+2024-02-06 16:34:08,270 - INFO - root  - test_chechout_login - 37-  Entering Email-->Credencetest@test.com 
+2024-02-06 16:34:08,365 - INFO - root  - test_chechout_login - 39-  Entering password-->Credence@123 
+2024-02-06 16:34:09,382 - INFO - root  - test_chechout_login - 41- Click on login_button 
+2024-02-06 16:34:09,621 - INFO - root  - test_chechout_login - 43- Click on product 
+2024-02-06 16:34:10,002 - INFO - root  - test_chechout_login - 45- Add to card 
+2024-02-06 16:34:10,266 - INFO - root  - test_chechout_login - 47- Check out_process 
+2024-02-06 16:34:10,332 - INFO - root  - test_chechout_login - 49-  First_name-->Credence 
+2024-02-06 16:34:10,390 - INFO - root  - test_chechout_login - 51- Last_name-->Pune 
+2024-02-06 16:34:10,455 - INFO - root  - test_chechout_login - 53- Phone_number-->9091929355 
+2024-02-06 16:34:10,528 - INFO - root  - test_chechout_login - 55- Address-->Dhankawdi,Pune 
+2024-02-06 16:34:10,585 - INFO - root  - test_chechout_login - 57- Zip-->411013 
+2024-02-06 16:34:10,700 - INFO - root  - test_chechout_login - 59- Enter_sate->  
+2024-02-06 16:34:10,755 - INFO - root  - test_chechout_login - 61- Owner_name-->Tushar 
+2024-02-06 16:34:10,811 - INFO - root  - test_chechout_login - 63- CVV-->043 
+2024-02-06 16:34:10,882 - INFO - root  - test_chechout_login - 65- Year-->  
+2024-02-06 16:34:10,958 - INFO - root  - test_chechout_login - 67- Month-->  
+2024-02-06 16:34:11,014 - INFO - root  - test_chechout_login - 69- Card_numner_01-->5281 
+2024-02-06 16:34:11,048 - INFO - root  - test_chechout_login - 71- Card_numner_02-->0370 
+2024-02-06 16:34:11,082 - INFO - root  - test_chechout_login - 73- Card_numner_03-->4891 
+2024-02-06 16:34:11,117 - INFO - root  - test_chechout_login - 75- Card_numner_04-->6168 
+2024-02-06 16:34:11,470 - INFO - root  - test_chechout_login - 77- Chekout_button 
+2024-02-06 16:34:11,508 - INFO - root  - test_chechout_login - 79- Print_bill->  
+2024-02-09 14:29:29,459 - INFO - root  - test_chechout_login - 32- Testcase test_UserLogin001 is started 
+2024-02-09 14:29:29,460 - INFO - root  - test_chechout_login - 33- Opening browser 
+2024-02-09 14:29:29,551 - INFO - root  - test_chechout_login - 37-  Entering Email-->Credencetest@test.com 
+2024-02-09 14:29:29,612 - INFO - root  - test_chechout_login - 39-  Entering password-->Credence@123 
+2024-02-09 14:29:30,442 - INFO - root  - test_chechout_login - 41- Click on login_button 
+2024-02-09 14:29:30,670 - INFO - root  - test_chechout_login - 43- Click on product 
+2024-02-09 14:29:30,967 - INFO - root  - test_chechout_login - 45- Add to card 
+2024-02-09 14:29:31,275 - INFO - root  - test_chechout_login - 47- Check out_process 
+2024-02-09 14:29:31,381 - INFO - root  - test_chechout_login - 49-  First_name-->Credence 
+2024-02-09 14:29:31,439 - INFO - root  - test_chechout_login - 51- Last_name-->Pune 
+2024-02-09 14:29:31,503 - INFO - root  - test_chechout_login - 53- Phone_number-->9091929355 
+2024-02-09 14:29:31,569 - INFO - root  - test_chechout_login - 55- Address-->Dhankawdi,Pune 
+2024-02-09 14:29:31,626 - INFO - root  - test_chechout_login - 57- Zip-->411013 
+2024-02-09 14:29:31,732 - INFO - root  - test_chechout_login - 59- Enter_sate->  
+2024-02-09 14:29:31,788 - INFO - root  - test_chechout_login - 61- Owner_name-->Tushar 
+2024-02-09 14:29:31,846 - INFO - root  - test_chechout_login - 63- CVV-->043 
+2024-02-09 14:29:31,919 - INFO - root  - test_chechout_login - 65- Year-->  
+2024-02-09 14:29:31,996 - INFO - root  - test_chechout_login - 67- Month-->  
+2024-02-09 14:29:32,053 - INFO - root  - test_chechout_login - 69- Card_numner_01-->5281 
+2024-02-09 14:29:32,092 - INFO - root  - test_chechout_login - 71- Card_numner_02-->0370 
+2024-02-09 14:29:32,130 - INFO - root  - test_chechout_login - 73- Card_numner_03-->4891 
+2024-02-09 14:29:32,168 - INFO - root  - test_chechout_login - 75- Card_numner_04-->6168 
+2024-02-09 14:29:32,459 - INFO - root  - test_chechout_login - 77- Chekout_button 
+2024-02-09 14:29:32,515 - INFO - root  - test_chechout_login - 79- Print_bill->  
+2024-02-09 16:47:14,923 - INFO - root  - test_chechout_login - 32- Testcase test_UserLogin001 is started 
+2024-02-09 16:47:14,923 - INFO - root  - test_chechout_login - 33- Opening browser 
+2024-02-09 16:47:15,023 - INFO - root  - test_chechout_login - 37-  Entering Email-->Credencetest@test.com 
+2024-02-09 16:47:15,084 - INFO - root  - test_chechout_login - 39-  Entering password-->Credence@123 
+2024-02-09 16:47:15,834 - INFO - root  - test_chechout_login - 41- Click on login_button 
+2024-02-09 16:47:16,035 - INFO - root  - test_chechout_login - 43- Click on product 
+2024-02-09 16:47:16,405 - INFO - root  - test_chechout_login - 45- Add to card 
+2024-02-09 16:47:18,791 - INFO - root  - test_chechout_login - 47- Check out_process 
+2024-02-09 16:47:18,871 - INFO - root  - test_chechout_login - 49-  First_name-->Credence 
+2024-02-09 16:47:18,922 - INFO - root  - test_chechout_login - 51- Last_name-->Pune 
+2024-02-09 16:47:18,979 - INFO - root  - test_chechout_login - 53- Phone_number-->9091929355 
+2024-02-09 16:47:19,038 - INFO - root  - test_chechout_login - 55- Address-->Dhankawdi,Pune 
+2024-02-09 16:47:19,087 - INFO - root  - test_chechout_login - 57- Zip-->411013 
+2024-02-09 16:47:19,208 - INFO - root  - test_chechout_login - 59- Enter_sate->  
+2024-02-09 16:47:19,263 - INFO - root  - test_chechout_login - 61- Owner_name-->Tushar 
+2024-02-09 16:47:19,313 - INFO - root  - test_chechout_login - 63- CVV-->043 
+2024-02-09 16:47:19,390 - INFO - root  - test_chechout_login - 65- Year-->  
+2024-02-09 16:47:19,487 - INFO - root  - test_chechout_login - 67- Month-->  
+2024-02-09 16:47:19,538 - INFO - root  - test_chechout_login - 69- Card_numner_01-->5281 
+2024-02-09 16:47:19,572 - INFO - root  - test_chechout_login - 71- Card_numner_02-->0370 
+2024-02-09 16:47:19,604 - INFO - root  - test_chechout_login - 73- Card_numner_03-->4891 
+2024-02-09 16:47:19,635 - INFO - root  - test_chechout_login - 75- Card_numner_04-->6168 
+2024-02-09 16:47:19,979 - INFO - root  - test_chechout_login - 77- Chekout_button 
+2024-02-09 16:47:20,008 - INFO - root  - test_chechout_login - 79- Print_bill->  
